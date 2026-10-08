@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Test Level.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: e4262fdc9e94a4e808175c1c3e7cd42b
+  - enabled: 1
+    path: Assets/Scenes/Cutscene 1.unity
+    guid: 4a62df7be89b14adaa7bc05746fa9685
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 4b429c4c46b8f46c490d9b08a2a3c7f8
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 24177728a5e3a4304bca323222c86ff2
+  - enabled: 1
+    path: Assets/Scenes/Cutscene 2.unity
+    guid: 00c0bb49805ad404eb429e54f05e2869
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: e3cd98aa717c14e8b87e544804e35dff
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: a9f764911ea354bdaa9991d983993bc4
+  - enabled: 1
+    path: Assets/Scenes/Cutscene 3.1.unity
+    guid: 1d56487425af44a6cb056277ae3f5f11
+  - enabled: 1
+    path: Assets/Scenes/Cutscene 3.2.unity
+    guid: 99a6340afcb6542418b3b6c97d1efe21
+  - enabled: 1
+    path: Assets/Scenes/Boss Battle.unity
+    guid: 418bcf6dc4a0a41cd8fdf2229949cc6d
+  - enabled: 1
+    path: Assets/Scenes/Cutscene 4.unity
+    guid: 20e3c6b6b1c594666bcf8f4eec62dbb8
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 3568146f96e764e4f826053ec8025462
+  m_configObjects: {}
