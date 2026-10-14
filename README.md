@@ -2,7 +2,7 @@
 
 Little Red Riding Hood is a 2D platformer telling the story of the classic fairytale (with a slight change at the end).
 
-Download and play the game: https://sophia990.itch.io/little-red-riding-hood
+Play the game: https://sophia990.itch.io/little-red-riding-hood
 
 **Technical Details**
 
